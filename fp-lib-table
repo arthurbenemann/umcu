@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "umcu")(type "KiCad")(uri "${KIPRJMOD}/umcu.pretty")(options "")(descr ""))
+)
